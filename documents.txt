@@ -1,0 +1,20 @@
+Binary search works on sorted arrays and runs in O(log n) time by repeatedly dividing the search range in half
+A linked list is a linear data structure where each node points to the next node and supports O(1) insertion at the head
+Hash maps use a hash function to map keys to buckets and provide average O(1) time complexity for insertion lookup and deletion
+The LRU cache eviction policy removes the least recently used item when the cache reaches its capacity
+Depth first search explores as far as possible along each branch before backtracking and uses a stack or recursion
+Breadth first search explores all neighbors at the current depth before moving to nodes at the next depth level
+Dijkstra algorithm finds the shortest path from a source node to all other nodes in a graph with non negative edge weights
+Dynamic programming solves problems by breaking them into overlapping subproblems and storing results to avoid recomputation
+A binary search tree maintains the property that left children are smaller and right children are larger than the parent node
+Token bucket rate limiting allows bursts of traffic up to a fixed capacity while refilling tokens at a steady rate
+Leaky bucket rate limiting processes requests at a fixed rate and queues or drops excess requests
+Sliding window algorithms maintain a subset of elements and adjust the window boundaries to solve substring or subarray problems
+A stack is a last in first out data structure that supports push pop and top operations in O(1) time
+A queue is a first in first out data structure commonly used in breadth first search and task scheduling
+Merge sort divides the array into halves recursively sorts them and merges the results in O(n log n) time
+Quick sort picks a pivot partitions the array around it and recursively sorts the partitions with average O(n log n) time
+Disjoint set union also called union find is used to group elements into sets and detect cycles in graphs efficiently
+A trie is a tree like data structure used to store strings and supports efficient prefix based search
+Two pointer technique uses two indices moving through a data structure to solve problems in linear time
+Topological sorting orders the vertices of a directed acyclic graph such that every edge points from earlier to later in the order
